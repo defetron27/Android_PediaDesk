@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PediaDesk</string>
+
+    <string name="permission_preference">PERMISSION_PREFERENCE</string>
+
+    <string name="permission_INTERNET">PERMISSION_INTERNET</string>
+</resources>
